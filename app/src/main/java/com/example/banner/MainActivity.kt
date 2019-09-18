@@ -8,6 +8,7 @@ import kotlinx.android.synthetic.main.act_auto_play.*
 
 /**
  * banner
+ *
  */
 
 class MainActivity : AppCompatActivity() {
