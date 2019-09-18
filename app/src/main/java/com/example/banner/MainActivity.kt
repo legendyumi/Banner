@@ -3,7 +3,6 @@ package com.example.banner
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.banner.adapter.Adapter
-import com.example.banner.adapter.AutoAdapter
 import com.example.banner.util.CoverFlow
 import kotlinx.android.synthetic.main.act_auto_play.*
 
